@@ -1,4 +1,4 @@
-# Currency Converter (CLI)
+# Currency Convertor (CLI)
 
 Un convertor valutar simplu scris în Python care transformă sume din RON în EUR, USD și GBP.
 
