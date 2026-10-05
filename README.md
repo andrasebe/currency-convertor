@@ -4,4 +4,4 @@ Un convertor valutar simplu scris în Python care transformă sume din RON în E
 
 ## Cum se rulează
 ```bash
-py convertor_valutar.py
+py currency_convertor.py
